@@ -1,0 +1,71 @@
+/* font style */
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* banner section */
+
+.banner-section {
+    background-image: url(../resources/Banner\ Image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    text-align: center;
+    margin: 0 0 40px 0;
+    /* width: 82%;
+    max-width: 1320px;
+    margin: 0 auto; */
+}
+
+.banner-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.banner-description {
+    color: #FFF;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 700px;
+    line-height: 180px;
+    margin-block: 20px;
+}
+
+/* main section */
+.offer-content {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.discount {
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.content-holiday {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 50px;
+}
+
+.content-cate {
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.new-year-pic{
+    align-items: center;
+    margin: auto;
+}
